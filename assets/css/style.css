@@ -754,6 +754,8 @@ section {
   margin-bottom: 0;
   width:fit-content;
   width: -moz-fit-content;
+  padding: 5px;
+  margin-bottom: 1em;
 }
 
 .featured-services .icon-box:hover .title a, .featured-services .icon-box:hover .description {
