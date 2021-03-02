@@ -1255,7 +1255,6 @@ section {
   overflow: hidden;
   border-radius: 4px;
   background: #fff;
-  width: 300px;
   box-shadow: 0px 2px 15px rgba(16, 110, 234, 0.15);
 }
 
@@ -1263,6 +1262,8 @@ section {
   position: relative;
   overflow: hidden;
   display: block;
+  width: 300px;
+
 }
 .team .member .social {
   position: absolute;
