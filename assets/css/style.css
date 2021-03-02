@@ -1255,14 +1255,15 @@ section {
   overflow: hidden;
   border-radius: 4px;
   background: #fff;
+  width: 300px;
   box-shadow: 0px 2px 15px rgba(16, 110, 234, 0.15);
 }
 
 .team .member .member-img {
   position: relative;
   overflow: hidden;
+  display: block;
 }
-
 .team .member .social {
   position: absolute;
   left: 0;
