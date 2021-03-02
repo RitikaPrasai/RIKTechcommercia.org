@@ -752,7 +752,7 @@ section {
   font-size: 15px;
   line-height: 28px;
   margin-bottom: 0;
-  width:fit-content
+  width:fit-content;
 }
 
 .featured-services .icon-box:hover .title a, .featured-services .icon-box:hover .description {
