@@ -177,14 +177,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo {
-  font-size: 30px;
-  margin-left: 0;
-  padding: 0;
-  line-height: 1;
-  font-weight: 600;
-  letter-spacing: 0.8px;
-  font-family: "Poppins", sans-serif;
-  max-height: 700px
+  width: 268px;
+    height: 96px;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+}
 }
 
 #header .logo a {
